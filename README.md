@@ -1,3 +1,3 @@
 # A sample header
 
-Some text
+Some text!
